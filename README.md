@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Heavyrain19
-- 👀 I’m interested in Data Analytics
+- 👀 I’m interested in Data Analytics, R, and Python
 - 🌱 I’m currently earning my Google Data Analytics Certificate
 
 
